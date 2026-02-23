@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "axer Singh",
+      "email": "sarika.singh1@example.com",
+      "password": "Sarika@123",
+      "gender": "Female"
+    },
+    {
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma2@example.com",
+      "password": "Rahul@123",
+      "gender": "Male"
+    },
+    {
+      "name": "Priya Verma",
+      "email": "priya.verma3@example.com",
+      "password": "Priya@123",
+      "gender": "Female"
+    },
+    {
+      "name": "Amit Kumar",
+      "email": "amit.kumar4@example.com",
+      "password": "Amit@123",
+      "gender": "Male"
+    },
+    {
+      "name": "Neha Gupta",
+      "email": "neha.gupta5@example.com",
+      "password": "Neha@123",
+      "gender": "Female"
+    },
+    {
+      "name": "Rohan Mehta",
+      "email": "rohan.mehta6@example.com",
+      "password": "Rohan@123",
+      "gender": "Male"
+    },
+    {
+      "name": "Anjali Patel",
+      "email": "anjali.patel7@example.com",
+      "password": "Anjali@123",
+      "gender": "Female"
+    },
+    {
+      "name": "Vikram Singh",
+      "email": "vikram.singh8@example.com",
+      "password": "Vikram@123",
+      "gender": "Male"
+    },
+    {
+      "name": "Kavita Joshi",
+      "email": "kavita.joshi9@example.com",
+      "password": "Kavita@123",
+      "gender": "Female"
+    },
+    {
+      "name": "Arjun Malhotra",
+      "email": "arjun.malhotra10@example.com",
+      "password": "Arjun@123",
+      "gender": "Male"
+    }
+  ]
+}
